@@ -1,14 +1,26 @@
 import Hiro from "./Hiro"
-import Section  from"./Section"
+import Home  from"./Home"
+import Category from "./Category"
+import Detail from "./Detail"
+
 
 function Main(){
 return(
 <div >
+    {/* =======Hiro====== */}
 <Hiro/>
 <div >
-<Section/>
+    {/* =========Home======= */}
+<Home/>
 </div>
-
+{/* =======Category===== */}
+<div>
+<Category/>
+</div>
+{/* =======Detail===== */}
+<div className="bg-[#9FDDFF]">
+    <Detail/>
+</div>
 </div>
 )
 
