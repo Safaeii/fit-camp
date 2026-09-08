@@ -18,7 +18,7 @@ return(
 <Category/>
 </div>
 {/* =======Detail===== */}
-<div className="bg-[#9FDDFF]">
+<div >
     <Detail/>
 </div>
 </div>
