@@ -61,7 +61,7 @@ function Header() {
 
           {/* Mobile Menu */}
           {isOpen && (
-            <nav className="absolute right-6 top-16 bg-white shadow-lg rounded-lg p-5 flex flex-col gap-4 z-50">
+            <nav className="absolute right-6 top-16 bg-white shadow-lg rounded-lg p-5 flex flex-col gap-4 z-50 ">
               <a href="#" className="text-[10px]">
                 Subscribe Plan
               </a>

@@ -2,7 +2,7 @@ function Footer (){
     return(
         <div className=" flex flex-col w-9/12 mx-auto mt-20 bg-black rounded-4xl text-white px-5 py-10">
 {/* ==TopSection== */}
-<div className=" flex  w-full justify-between items-center py-5 px-5  ">
+<div className=" flex lg:flex-row  w-full justify-between items-center py-5 px-5  ">
     <div className=" flex  flex-col  gap-5 w-6/12">
     <div className="flex  items-center gap-5">
 <img src="/src/assets/images/Logo.png" alt=""  className=" size-16"/>

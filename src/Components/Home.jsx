@@ -4,6 +4,7 @@ import GymLocation from "./GymLocation";
 import ProductCard from "./ProductCard";
 import ProductReviews from "./ProductReviews"
 import ProductDetails from "./ProductDetal"
+
 import Footer from "./Footer";
 function Section() {
   return (
@@ -17,6 +18,7 @@ function Section() {
         pt-10
         sm:pt-16
         lg:pt-10
+        mx-auto
       "
     >
 
@@ -35,6 +37,8 @@ function Section() {
           </div>
              {/* ================= ProductDetails================= */}
 <ProductDetails/>
+{/* =============SubcribePackage============ */}
+
     {/* ================= footer================= */}
 <div className="bg-[#E1F5FE]">
   <Footer/>

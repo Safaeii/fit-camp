@@ -2,7 +2,7 @@ import Hiro from "./Hiro"
 import Home  from"./Home"
 import Category from "./Category"
 import Detail from "./Detail"
-
+import SubcribePackage from "./SubcribePackage"
 
 function Main(){
 return(
@@ -20,6 +20,9 @@ return(
 {/* =======Detail===== */}
 <div >
     <Detail/>
+</div>
+<div>
+    <SubcribePackage/>
 </div>
 </div>
 )

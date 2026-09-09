@@ -15,7 +15,7 @@ function ProductCard() {
         <div className=" justify-between hidden md:flex sm:flex">
           <div>
 <h2 className="text-xl font-bold">Latest Added</h2>
-        <p className=" text-xs opacity-70">
+        <p className=" text-xs text-[#778899]">
           New gyms from around the city with variety facilities available
         </p>
           </div>

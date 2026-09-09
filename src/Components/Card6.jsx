@@ -23,7 +23,7 @@ function Card6(){
                   alt="Location"
                 />
 
-                <p className="text-xs opacity-70">
+                <p className="text-xs text-[#778899]">
                   Senayan, Jakarta Selatan
                 </p>
               </div>
@@ -43,7 +43,7 @@ function Card6(){
                 Facilities
               </p>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 View all
               </p>
             </div>
@@ -66,7 +66,7 @@ function Card6(){
                 Sauna
               </h4>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 Relax Body
               </p>
             </div>
@@ -83,7 +83,7 @@ function Card6(){
                 Shower
               </h4>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 After Gym
               </p>
             </div>
@@ -100,7 +100,7 @@ function Card6(){
                 Locker
               </h4>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 Saving Bag
               </p>
             </div>
@@ -123,7 +123,7 @@ function Card6(){
                 Cardio
               </h4>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 Heart Rate
               </p>
             </div>
@@ -140,7 +140,7 @@ function Card6(){
                 Mattress
               </h4>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 Equipment
               </p>
             </div>
@@ -157,7 +157,7 @@ function Card6(){
                 Machine
               </h4>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 Saving Bag
               </p>
             </div>
@@ -190,7 +190,7 @@ function Card6(){
                 Opening Work
               </h4>
 
-              <p className="text-xs opacity-70">
+              <p className="text-xs text-[#778899]">
                 05:00 AM - 11:00 PM
               </p>
             </div>
